@@ -1,0 +1,12 @@
+.place__title-link {
+    display: flex;
+    padding-bottom: 48px;
+}
+
+@media screen and (max-width: 739px) {
+    .place__title-link {
+      flex-direction: column;
+      padding-bottom: 32px;
+      }
+      
+  } 

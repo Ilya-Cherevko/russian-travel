@@ -1,0 +1,8 @@
+.header__logo {
+  background-image: url(../../../images/header-logo.svg);
+  background-size: 176px 52px;
+  justify-items: start;
+  max-width: 80%;
+  width: 176px;
+  height: 52px;
+}

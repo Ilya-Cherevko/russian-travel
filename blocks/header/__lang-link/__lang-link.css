@@ -1,0 +1,17 @@
+.header__lang-link {
+  justify-items: flex-end;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.16;
+  margin: 0 18px 0 0;
+  color: white;
+}
+
+.header__lang-link:nth-of-type(1) {
+  text-decoration: underline;
+  
+}
+.header__lang-link:nth-of-type(2) {
+  margin: 0;
+}
