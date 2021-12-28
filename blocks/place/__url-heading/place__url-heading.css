@@ -3,7 +3,7 @@
   font-weight: normal;
   font-size: 12px;
   line-height: 100%;
-  /* identical to box height, or 100% */
+  text-transform: uppercase;
   align-self: center;
   letter-spacing: 2px;
   margin: 0 0 12px 0;

@@ -1,8 +1,15 @@
 .header__logo {
   background-image: url(../../../images/header-logo.svg);
   background-size: 176px 52px;
+  background-repeat: no-repeat;
   justify-items: start;
   max-width: 80%;
   width: 176px;
   height: 52px;
+}
+
+@media screen and (max-width: 739px) {
+  .header__logo {
+    background-size: 142px 42px;
+    }
 }

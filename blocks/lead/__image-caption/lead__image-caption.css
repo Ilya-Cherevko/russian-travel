@@ -1,0 +1,5 @@
+.lead__image-caption {
+    display: flex;
+    flex-flow: column;
+    margin: 0;
+}

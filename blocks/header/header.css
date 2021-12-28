@@ -2,6 +2,24 @@
     display: grid;
     grid-template-columns: 30fr 1fr 1fr;
     align-items: center;
-    padding-top: 28px;
-    min-height: 52px;
+    max-width: 1280px;
+    padding: 28px 48px 56px 48px;
   }
+
+  @media screen and (max-width: 1200px) {
+    .header {
+      padding: 28px 48px 48px 48px;
+      }
+  } 
+  
+  @media screen and (max-width: 931px) {
+    .header {
+      padding: 24px 24px 48px 24px;
+      }
+  } 
+  
+  @media screen and (max-width: 739px) {
+    .header {
+      padding: 16px 16px 48px 16px;
+      }
+  } 

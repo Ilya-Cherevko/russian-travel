@@ -5,6 +5,7 @@
   line-height: 16px;
   justify-self: end;
   text-align: right;
+  margin: 0;
   color: #FFFFFF;
 }
 
@@ -12,5 +13,6 @@
   .footer__copyright {
     justify-self: start;
     text-align: left;
+    line-height: 14px;
     }
 } 

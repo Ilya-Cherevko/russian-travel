@@ -2,7 +2,7 @@
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 106%;
+  line-height: 76px;
   margin: 0;
   color: #FFFFFF;
   align-self: end;
@@ -12,8 +12,6 @@
 @media screen and (max-width: 1200px) {
   .place__title {
     width: 440px;
-    font-size: 72px;
-    line-height: 76px;
     }
 } 
 

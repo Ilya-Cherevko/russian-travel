@@ -6,8 +6,19 @@
   line-height: 1.4;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  margin: 0;
-  margin-top: 8px;
+  margin: 8px 0 0 0;
   align-self: flex-start;
   color: #FFFFFF;
 }
+
+@media screen and (max-width: 931px) {
+  .lead__caption {
+    margin: 8px 0 0 24px;
+    }
+} 
+
+@media screen and (max-width: 739px) {
+  .lead__caption {
+    margin: 8px 0 0 16px;
+    }
+} 
