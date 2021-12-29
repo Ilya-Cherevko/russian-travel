@@ -3,27 +3,3 @@
   background-size: cover;
   background-position: center;
 }
-
-/*@media screen and (max-width: 1200px) {
-  .lead__image {
-    max-height: 580px;
-    }
-} 
-
-@media screen and (max-width: 931px) {
-  .lead__image {
-    max-height: 480px;
-    }
-} 
-
-@media screen and (max-width: 539px) {
-  .lead__image {
-    max-height: 380px;
-    }
-} 
-
-@media screen and (max-width: 320px) {
-  .lead__image {
-    max-height: 200px;
-    }
-} */
