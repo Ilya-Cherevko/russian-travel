@@ -15,7 +15,6 @@
   .intro {
     padding-top: 88px;
     padding-right: 0;
-    max-width: 720px;
     }
 }
 
@@ -23,6 +22,5 @@
   .intro {
     padding-top: 64px;
     margin: 0 16px;
-    max-width: 288px;
     }
 }

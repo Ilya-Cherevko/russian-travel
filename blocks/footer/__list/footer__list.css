@@ -1,6 +1,10 @@
 .footer__list {
-    list-style: none;
-    text-align: right;
     margin: 0;
     padding: 0;
 }
+
+@media screen and (max-width: 756px) {
+    .footer__list {
+      margin: 0 0 32px 0;
+      }
+    } 
