@@ -3,7 +3,7 @@
     align-items: flex-start;
 }
 
-@media screen and (max-width: 756px) {
+@media screen and (max-width: 739px) {
   .footer__nav {
     flex-direction: column;
     }

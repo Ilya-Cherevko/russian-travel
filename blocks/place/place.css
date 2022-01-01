@@ -4,6 +4,10 @@
   padding-bottom: 80px;
 }
 
+.place:last-child {
+  padding-bottom: 0px;
+}
+
 @media screen and (max-width: 739px) {
   .place {
     padding-bottom: 50px;

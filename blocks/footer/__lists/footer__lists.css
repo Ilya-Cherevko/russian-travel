@@ -7,7 +7,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 756px) {
+@media screen and (max-width: 739px) {
     .footer__lists {
       flex-direction: column;
       align-items: flex-start;
