@@ -1,13 +1,15 @@
 .intro {
+  /*margin: 0 calc((100vw - 1001px)/2);*/
   margin: 0 auto;
   padding-top: 92px;
-  padding-right: 23%;
+  padding-right: 22.97%;
+  /*padding-right: calc(100vw - 997px);*/
   max-width: 690px;
 }
 
 @media screen and (max-width: 1041px) {
   .intro {
-    padding-right: 23%;
+    padding-right: 22%;
     margin: 0 48px;
     }
 } 
