@@ -36,6 +36,6 @@
     margin: 32px 16px 25px 16px;
     }
     .place__paragraph:last-child {
-      margin: 32px 16px 0 16px;
+      margin: 0 16px 0 16px;
     }
 }
