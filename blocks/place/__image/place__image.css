@@ -7,14 +7,14 @@
   grid-row-end: 3;*/
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1041px) {
   .place__image {
     width: 440px;
     height: 440px;
     }
 } 
 
-@media screen and (max-width: 931px) {
+@media screen and (max-width: 800px) {
   .place__image {
     width: 340px;
     height: 340px;
